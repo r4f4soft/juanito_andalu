@@ -7,7 +7,7 @@ Se trata de un script hecho en bash para romper contraseñas de usuarios en Linu
 
 2: Darle permisos de ejecución al .sh (Y debes ejecutarlo como sudo)
 
-3: Para ejecutar escribe ```sudo ./juanito_andalu.sh <fichero > o sudo bash juanito_andalu.sh <fichero>```
+3: Para ejecutar escribe ```sudo ./juanito_andalu.sh <fichero> o sudo bash juanito_andalu.sh <fichero>```
 	
 ### ¡Si encuentras algún error o quieres hacer una mejora comenta sin problemas!
 

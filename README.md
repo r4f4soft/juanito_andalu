@@ -5,9 +5,9 @@ Se trata de un script hecho en bash para romper contraseñas de usuarios en Linu
 ## ¿Como use usa?
 1: Clonarte el repositorio en tu sistema con el comando: git clone https://github.com/rafaeljibur/juanito_andalu.git
 
-2: Darle permisos de ejecución al .sh (Y debes ejecutarlo como sudo)
+2: Darle permisos de ejecución al .sh: ```chmod +x juanito_andalu.sh```
 
-3: Para ejecutar escribe ```sudo ./juanito_andalu.sh <usuario> <diccionario>```
+3: Para ejecutar escribe ```./juanito_andalu.sh <usuario> <diccionario>```
 	
 ### ¡Si encuentras algún error o quieres hacer una mejora comenta sin problemas!
 
